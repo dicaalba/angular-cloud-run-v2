@@ -1,4 +1,4 @@
-# 🚀 Laboratorio: Deploy Canary a Google Cloud Run con GitHub Actions - 2
+# 🚀 Laboratorio: Deploy Canary a Google Cloud Run con GitHub Actions - Lab
 
 > **Módulo 5 — DevOps y Automatización del SDLC**  
 > **UTEC Posgrado | Arquitectura de Soluciones Multinube**  
